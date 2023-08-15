@@ -1,5 +1,5 @@
 <?php
-/*Hoàng Huy đã ở đây =)) */
+/*hiiiiiiiiii*/
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
