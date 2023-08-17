@@ -411,6 +411,11 @@ ol {
 	padding: 15px 0;
 }
 
+.header__logo img{
+	width: 220px;
+	height: 55px;
+}
+
 .header__logo a {
 	display: inline-block;
 }
