@@ -33,7 +33,7 @@
 html,
 body {
 	height: 100%;
-	font-family: "Cairo", sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 }
@@ -172,10 +172,11 @@ ol {
 }
 
 .site-btn {
-	font-size: 14px;
+	font-size: 16px;
 	color: #ffffff;
-	font-weight: 800;
-	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	/* font-weight: 800; */
+	/* text-transform: uppercase; */
 	display: inline-block;
 	padding: 13px 30px 12px;
 	background: #617bf0;
@@ -411,6 +412,11 @@ ol {
 	padding: 15px 0;
 }
 
+.header__logo img{
+	width: 220px;
+	height: 55px;
+}
+
 .header__logo a {
 	display: inline-block;
 }
@@ -422,7 +428,7 @@ ol {
 .header__menu ul li {
 	list-style: none;
 	display: inline-block;
-	margin-right: 50px;
+	margin-right: 30px;
 	position: relative;
 }
 
@@ -779,6 +785,7 @@ ol {
 	letter-spacing: 2px;
 	padding: 12px 0 10px;
 	background: #ffffff;
+	opacity: 0.9;
 	display: block;
 }
 
