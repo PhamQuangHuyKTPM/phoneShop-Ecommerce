@@ -28,10 +28,6 @@
 </head>
 
 <body>
-    <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
 
     <!-- Humberger Begin -->
     <div class="humberger__menu__overlay"></div>
@@ -108,11 +104,11 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__right">
                             <div class="header__top__right__social">
-                                <a href="{{ route('login') }}"><i class="fa fa-user"></i> Sign Up</a>
+                                <a href="{{ route('login') }}"><i class="fa fa-user"></i> Đăng ký</a>
                             </div>
                             
                             <div class="header__top__right__auth">
-                                <a href="{{ route('login') }}"><i class="fa fa-user"></i> Login</a>
+                                <a href="{{ route('login') }}"><i class="fa fa-user"></i> Đăng nhập</a>
                             </div>
                         </div>
                     </div>
@@ -130,7 +126,7 @@
                     <nav class="header__menu">
                         <ul>
                             <li class="active"><a href="{{ route('home') }}">Trang chủ</a></li>
-                            <li><a href="{{ route('shop-grid') }}">Shop</a></li>
+                            <li><a href="{{ route('shop-grid') }}">Sản phẩm</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="{{ route('shop-details') }}">Shop Details</a></li>
@@ -139,8 +135,8 @@
                                     <li><a href="./blog-details.html">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{ route('blog') }}">Blog</a></li>
-                            <li><a href="{{ route('contact') }}">Contact</a></li>
+                            <li><a href="{{ route('blog') }}">Tin tức</a></li>
+                            <li><a href="{{ route('contact') }}">Liên hệ</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -177,11 +173,11 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo">
-                            <a href="./index.html"><img src="front/img/logo.png" alt=""></a>
+                            <a href="./index.html"><img src="front/img/logo_baongoc_new.png"></a>
                         </div>
                         <ul>
-                            <li>Address: 60-49 Road 11378 New York</li>
-                            <li>Phone: +65 11.188.888</li>
+                            <li>Địa chỉ : số 12 Lương Ngọc Quyến, Thái Nguyên</li>
+                            <li>Điện thoại: 0393373254</li>
                             <li>Email: hello@colorlib.com</li>
                         </ul>
                     </div>
@@ -224,7 +220,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-lg-12">
                     <div class="footer__copyright">
                         <div class="footer__copyright__text"><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -233,7 +229,7 @@
                         <div class="footer__copyright__payment"><img src="img/payment-item.png" alt=""></div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </footer>
     <!-- Footer Section End -->
