@@ -30,7 +30,7 @@ Route::get('/shoping-cart', function () {
 })->name('shoping-cart');
 
 Route::get('/blog', function () {
-    return view('blog');
+    return view('front/blog');
 })->name('blog');
 
 Route::get('/loginn', function () {
