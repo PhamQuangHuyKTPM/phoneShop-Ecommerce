@@ -130,7 +130,7 @@
                     <nav class="header__menu">
                         <ul>
                             <li class="active"><a href="{{ route('home') }}">Trang chủ</a></li>
-                            <li><a href="./shop-grid.html">Shop</a></li>
+                            <li><a href="{{ route('shop-grid') }}">Shop</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="{{ route('shop-details') }}">Shop Details</a></li>
@@ -148,7 +148,7 @@
                     <div class="header__cart">
                         <ul>
                             
-                            <li><button type="button" class="btn btn-outline-primary"><a href="#"><i class="fa fa-shopping-bag"></i></a> Giỏ hàng</button></li>
+                            <li><a href="{{ route('shoping-cart') }}"><button type="button" class="btn btn-outline-primary"><i class="fa fa-shopping-bag"></i> Giỏ hàng</button></a></li>
                         </ul>
                         <div class="header__cart__price">item: <span>$150.00</span></div>
                     </div>

@@ -25,6 +25,10 @@ Route::get('/contact', function () {
     return view('front.contact');
 })->name('contact');
 
+Route::get('/shop-grid', function () {
+    return view('front.shop-grid');
+})->name('shop-grid');
+
 Route::get('/shoping-cart', function () {
     return view('front.shoping-cart');
 })->name('shoping-cart');
