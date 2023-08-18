@@ -15,10 +15,27 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('front.index');
-});
+})->name('home');
 
 Route::get('/shop-details', function () {
     return view('front.shop-details');
-});
+})->name('shop-details');
+
+Route::get('/contact', function () {
+    return view('front.contact');
+})->name('contact');
+
+Route::get('/shoping-cart', function () {
+    return view('front.shoping-cart');
+})->name('shoping-cart');
+
+Route::get('/blog', function () {
+    return view('front.blog');
+})->name('blog');
+
+Route::get('/login', function () {
+    return view('from.login');
+})->name('login');
+
 
 
