@@ -19,7 +19,7 @@
                             <li><a href="#">Samsung</a></li>
                             <li><a href="#">Opple</a></li>
                             <li><a href="#">ViVo</a></li>
-                            <li><a href="#">Realmy</a></li>
+                            <li><a href="#">Realme</a></li>
                             <li><a href="#">Nokia</a></li>
                             <li><a href="#">Masstel</a></li>
                         </ul>
