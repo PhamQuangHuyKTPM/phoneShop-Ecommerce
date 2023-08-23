@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use app\Http\Controllers\dashboard\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -41,5 +42,12 @@ Route::get('/loginn', function () {
     return view('login');
 })->name('login');
 
+
+// Admin routes
+Route::get('/trang-admin',  [HomeController::class, 'index']);
+
+Route::get('/admin', function () {
+    return view('dashboard.index-1');
+})->name('admin');
 
 

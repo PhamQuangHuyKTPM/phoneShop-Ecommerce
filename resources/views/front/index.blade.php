@@ -1,6 +1,6 @@
 @extends('front.layout.master')
 
-    @section('title', 'Hello')
+    @section('title', 'Trang chủ')
 
     @section('body')
     <!-- Hero Section Begin -->
