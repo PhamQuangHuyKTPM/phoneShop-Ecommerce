@@ -4,9 +4,10 @@
 
     @section('body')
    
+    @include("front.layout.bottom-header");
 
     <!-- Hero Section Begin -->
-    <section class="hero hero-normal">
+    {{-- <section class="hero hero-normal">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
@@ -51,7 +52,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- Hero Section End -->
 
     <!-- Breadcrumb Section Begin -->

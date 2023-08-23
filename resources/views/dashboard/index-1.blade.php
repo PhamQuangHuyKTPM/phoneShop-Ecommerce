@@ -814,6 +814,51 @@
                                         <button data-toggle="tooltip" title="Trash" class="pd-setting-ed"><i class="fa fa-trash-o" aria-hidden="true"></i></button>
                                     </td>
                                 </tr>
+                                tr>
+                                    <td><img src="img/new-product/7-small.jpg" alt="" /></td>
+                                    <td>Product Title 6</td>
+                                    <td>
+                                        <button class="ps-setting">Paused</button>
+                                    </td>
+                                    <td>400</td>
+                                    <td>$4000</td>
+                                    <td>In Stock</td>
+                                    <td>$10</td>
+                                    <td>
+                                        <button data-toggle="tooltip" title="Edit" class="pd-setting-ed"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></button>
+                                        <button data-toggle="tooltip" title="Trash" class="pd-setting-ed"><i class="fa fa-trash-o" aria-hidden="true"></i></button>
+                                    </td>
+                                </tr>
+                                tr>
+                                    <td><img src="img/new-product/7-small.jpg" alt="" /></td>
+                                    <td>Product Title 6</td>
+                                    <td>
+                                        <button class="ps-setting">Paused</button>
+                                    </td>
+                                    <td>400</td>
+                                    <td>$4000</td>
+                                    <td>In Stock</td>
+                                    <td>$10</td>
+                                    <td>
+                                        <button data-toggle="tooltip" title="Edit" class="pd-setting-ed"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></button>
+                                        <button data-toggle="tooltip" title="Trash" class="pd-setting-ed"><i class="fa fa-trash-o" aria-hidden="true"></i></button>
+                                    </td>
+                                </tr>
+                                tr>
+                                    <td><img src="img/new-product/7-small.jpg" alt="" /></td>
+                                    <td>Product Title 6</td>
+                                    <td>
+                                        <button class="ps-setting">Paused</button>
+                                    </td>
+                                    <td>400</td>
+                                    <td>$4000</td>
+                                    <td>In Stock</td>
+                                    <td>$10</td>
+                                    <td>
+                                        <button data-toggle="tooltip" title="Edit" class="pd-setting-ed"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></button>
+                                        <button data-toggle="tooltip" title="Trash" class="pd-setting-ed"><i class="fa fa-trash-o" aria-hidden="true"></i></button>
+                                    </td>
+                                </tr>
                             </table>
                             <div class="custom-pagination">
 								<ul class="pagination">
