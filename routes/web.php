@@ -35,12 +35,16 @@ Route::get('/shoping-cart', function () {
 })->name('shoping-cart');
 
 Route::get('/blog', function () {
-    return view('front/blog');
+    return view('front.blog');
 })->name('blog');
+
+
 
 Route::get('/loginn', function () {
     return view('login');
 })->name('login');
+    
+
 
 
 // Admin routes

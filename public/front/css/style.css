@@ -254,7 +254,6 @@ ol {
 /*---------------------
   Header
 -----------------------*/
-
 .header__top {
 	background: #f5f5f5;
 }
@@ -305,6 +304,7 @@ ol {
 	display: inline-block;
 	margin-right: 35px;
 }
+
 
 .header__top__right__social:after {
 	position: absolute;
@@ -2911,6 +2911,10 @@ ol {
 	letter-spacing: 2px;
 }
 
+.rounder-radius {
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;}
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 
 @media only screen and (min-width: 1200px) {
@@ -3476,4 +3480,6 @@ ol {
 	.blog__details__hero__text h2 {
 		font-size: 24px;
 	}
+	
+	
 }

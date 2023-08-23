@@ -108,7 +108,7 @@
                             </div>
                             
                             <div class="header__top__right__auth">
-                                <a href="{{ route('login') }}"><i class="fa fa-user"></i> Đăng nhập</a>
+                                <a href="#"><i class="fa fa-user"></i> Login</a>
                             </div>
                         </div>
                     </div>
@@ -125,8 +125,8 @@
                 <div class="col-lg-6">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="{{ route('home') }}">Trang chủ</a></li>
-                            <li><a href="{{ route('shop-grid') }}">Sản phẩm</a></li>
+                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li><a href="./shop-grid.html">Shop</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="{{ route('shop-details') }}">Shop Details</a></li>
@@ -135,8 +135,8 @@
                                     <li><a href="./blog-details.html">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{ route('blog') }}">Tin tức</a></li>
-                            <li><a href="{{ route('contact') }}">Liên hệ</a></li>
+                            <li><a href="./blog.html">Blog</a></li>
+                            <li><a href="./contact.html">Contact</a></li>
                         </ul>
                     </nav>
                 </div>
