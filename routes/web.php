@@ -38,6 +38,13 @@ Route::get('/blog', function () {
     return view('front.blog');
 })->name('blog');
 
+Route::get('/checkout', function () {
+    return view('front.checkout');
+})->name('checkout');
+
+Route::get('/blog-details', function () {
+    return view('front.blog-details');
+})->name('blog-details');
 
 
 Route::get('/loginn', function () {
