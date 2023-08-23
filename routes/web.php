@@ -37,9 +37,7 @@ Route::get('/blog', function () {
     return view('front.blog');
 })->name('blog');
 
-Route::get('/login', function () {
-    return view('front/blog');
-})->name('blog');
+
 
 Route::get('/loginn', function () {
     return view('login');
