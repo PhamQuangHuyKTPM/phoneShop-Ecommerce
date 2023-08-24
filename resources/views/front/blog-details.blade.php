@@ -84,7 +84,7 @@
                         <img src="front/img/blog/details/Z_Flip5_02.jpg" alt="">
                         <p>Bên trong sản phẩm được trang bị chip Qualcomm Snapdragon 8 Gen 2, dung lượng lưu trữ 128GB, RAM 8GB và cả tuỳ chọn dung lượng 256GB và 512GB đều cung cấp 12GB RAM.<br>
                             Ở bên ngoài, sản phẩm có một camera chính 12 megapixel và một camera siêu rộng 12 megapixel, với góc rộng bao gồm lấy nét tự động pixel kép và OIS.<br>
-                            Samsung cho biết sẽ bán ra Galaxy Z Flip 5 với giá từ 999 USD. Tại Việt Nam, Galaxy Z Flip5 8+256GB: 25.990.000 đồng và phiên bản Galaxy Z Flip5 8+512GB có giá 29.990.000 đồng.<br>
+                            Samsung cho biết sẽ bán ra Galaxy Z Flip 5 với giá từ 999 USD. Tại Việt Nam, Galaxy Z Flip5 8/256GB: 25.990.000 đồng và phiên bản Galaxy Z Flip5 8/512GB có giá 29.990.000 đồng.<br>
                             </p>
                            
                     </div>
@@ -92,12 +92,14 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="blog__details__author">
-                                    <div class="blog__details__author__pic">
-                                        <img src="front/img/blog/details/details-author.jpg" alt="">
+                                    <div class="rounder-radius">
+                                        <div class="blog__details__author__pic">
+                                        <img src="front/img/blog/details/admin.jpg" alt="">
                                     </div>
                                     <div class="blog__details__author__text">
-                                        <h6>BlackTeam</h6>
+                                        <h5>BlackTeam</h5>
                                         <span>Admin</span>
+                                    </div>
                                     </div>
                                 </div>
                             </div>
@@ -130,7 +132,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title related-blog-title">
-                        <h2>Post You May Like</h2>
+                        <h3 style="font-family: Arial, Helvetica, sans-serif"><b>Bài viết liên quan</b></h3>
                     </div>
                 </div>
             </div>
@@ -138,45 +140,45 @@
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="img/blog/blog-1.jpg" alt="">
+                            <img src="/front/img/categories/xiaomi.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
                                 <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">Cooking tips make cooking simple</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">Realme</a></h5>
+                            <p>Sự Kiện Ra Mắt Realme 11 Pro Series 5G Tại Dĩ An</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="img/blog/blog-2.jpg" alt="">
+                            <img src="/front/img/categories/iphone.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
                                 <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">6 ways to prepare breakfast for 30</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">IPHONE</a></h5>
+                            <p>Lộ diện hình ảnh mới nhất của Iphone 15 Concept</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6">
                     <div class="blog__item">
                         <div class="blog__item__pic">
-                            <img src="img/blog/blog-3.jpg" alt="">
+                            <img src="/front/img/categories/nokia.jpg" alt="">
                         </div>
                         <div class="blog__item__text">
                             <ul>
                                 <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">Visit the clean farm in the US</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <h5><a href="#">NOKIA</a></h5>
+                            <p>Trình làng Nokia 310 5G và Nokia C210, giá chỉ từ 2,6 triệu</p>
                         </div>
                     </div>
                 </div>

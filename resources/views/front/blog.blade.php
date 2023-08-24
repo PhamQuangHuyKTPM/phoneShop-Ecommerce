@@ -168,7 +168,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="blog__item">
                                 <div class="blog__item__pic">
-                                    <img src="front/img/categories/iphone.jpg" alt="">
+                                    <img src="/front/img/categories/iphone.jpg" alt="">
                                 </div>
                                 <div class="blog__item__text">
                                     <ul>
