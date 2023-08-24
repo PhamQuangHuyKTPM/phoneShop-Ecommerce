@@ -61,4 +61,8 @@ Route::get('/admin', function () {
     return view('dashboard.index-1');
 })->name('admin');
 
+Route::get('/admin2', function () {
+    return view('dashboard.index-2');
+})->name('admin2');
+
 
