@@ -91,25 +91,34 @@
             <div class="left-custom-menu-adp-wrap comment-scrollbar">
                 <nav class="sidebar-nav left-sidebar-menu-pro">
                     <ul class="metismenu" id="menu1">
-                        <li class="active">
-                            <a class="has-arrow" href="index.html">
-								   <i class="icon nalika-home icon-wrap"></i>
-								   <span class="mini-click-non">Quản lý sản phẩm</span>
-								</a>
+                      <li>
+                        <a class="has-arrow" href="mailbox.html" aria-expanded="false"><i class="icon nalika-table icon-wrap"></i> <span class="mini-click-non">Quản lý danh mục</span></a> 
+                      </li>
+                      <li class="active">
+                          <a class="has-arrow" href="index.html">
+      								   <i class="icon nalika-home icon-wrap"></i>
+								        <span class="mini-click-non">Quản lý sản phẩm</span>
+								          </a>
 
-                        </li>
+                      </li>
+                      
                         <li>
                             <a class="has-arrow" href="mailbox.html" aria-expanded="false"><i class="icon nalika-mail icon-wrap"></i> <span class="mini-click-non">Phản hồi</span></a>
                         </li>
                         <li>
                             <a class="has-arrow" href="mailbox.html" aria-expanded="false"><i class="icon nalika-bar-chart icon-wrap"></i> <span class="mini-click-non">Thống kê</span></a> 
                         </li>
-                        <li>
-                            <a class="has-arrow" href="mailbox.html" aria-expanded="false"><i class="icon nalika-table icon-wrap"></i> <span class="mini-click-non">Quản lý danh mục</span></a> 
-                        </li>
+                        
                         <li>
                             <a class="has-arrow" href="mailbox.html" aria-expanded="false"><i class="icon nalika-forms icon-wrap"></i> <span class="mini-click-non">Quản lí tin tức</span></a>
                         </li>
+                        <li>
+                          <a class="has-arrow" href="mailbox.html" aria-expanded="false">
+                            <i class="icon nalika-user icon-wrap"></i>
+                            <span class="mini-click-non">Quản người dùng</span>
+                          </a>
+                      </li>
+                      
                         <li id="removable">
                             <a class="has-arrow" href="#" aria-expanded="false"><i class="icon nalika-new-file icon-wrap"></i> <span class="mini-click-non">Quản lý đơn hàng</span></a>
                         </li>

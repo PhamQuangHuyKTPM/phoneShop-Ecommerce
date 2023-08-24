@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Login V16</title>
+	<title>Đăng ký</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -33,7 +33,7 @@
 		<div class="container-login100" style="background-image: url('/login/images/bg-01.jpg');">
 			<div class="wrap-login100 p-t-30 p-b-50">
 				<span class="login100-form-title p-b-41">
-					Account Login
+					Đăng ký tài khoản
 				</span>
 				<form class="login100-form validate-form p-b-33 p-t-5">
 
@@ -54,7 +54,7 @@
 
 					<div class="container-login100-form-btn m-t-32">
 						<button class="login100-form-btn">
-							Login
+							Đăng ký
 						</button>
 					</div>
 
