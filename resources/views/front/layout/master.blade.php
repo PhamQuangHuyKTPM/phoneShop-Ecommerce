@@ -135,14 +135,8 @@
                                     <li><a href="{{ route('blog-details') }}">Blog Details</a></li>
                                 </ul>
                             </li>
-<<<<<<< HEAD
                             <li><a href="{{ route('blog') }}">Blog</a></li>
                             <li><a href="{{ route('contact') }}">Contact</a></li>
-=======
-                            <!--<li><a href="./blog.html">Blog</a></li>-->
-                            <li><a href="{{ route('blog') }}">Blog</a></li>
-                            <li><a href="./contact.html">Contact</a></li>
->>>>>>> 21015fd2aadab53fec48e154b9085ee8ae828762
                         </ul>
                     </nav>
                 </div>
