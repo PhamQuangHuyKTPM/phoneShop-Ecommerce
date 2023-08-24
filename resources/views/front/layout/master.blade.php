@@ -104,11 +104,11 @@
                     <div class="col-lg-6 col-md-6">
                         <div class="header__top__right">
                             <div class="header__top__right__social">
-                                <a href="{{ route('login') }}"><i class="fa fa-user"></i> Đăng ký</a>
+                                <a href="{{ route('login') }}"><i class="fa fa-user"></i> Đăng nhập</a>
                             </div>
                             
                             <div class="header__top__right__auth">
-                                <a href="#"><i class="fa fa-user"></i> Login</a>
+                                <a href="{{route('signup')}}"><i class="fa fa-user"></i> Đăng ký</a>
                             </div>
                         </div>
                     </div>

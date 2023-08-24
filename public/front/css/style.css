@@ -582,6 +582,10 @@ ol {
 	position: relative;
 }
 
+.hero__categories ul a{
+	text-transform: uppercase;
+}
+
 .hero.hero-normal .hero__categories ul {
 	display: none;
 	position: absolute;
