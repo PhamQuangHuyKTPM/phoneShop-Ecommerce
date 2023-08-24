@@ -8,13 +8,12 @@
                         <span>Danh mục</span>
                     </div>
                     <ul>
-                        <li><a href="#">Iphone</a></li>
-                        <li><a href="#">Samsung</a></li>
-                        <li><a href="#">Opple</a></li>
-                        <li><a href="#">ViVo</a></li>
-                        <li><a href="#">Realmy</a></li>
-                        <li><a href="#">Nokia</a></li>
-                        <li><a href="#">Masstel</a></li>
+                        <li><a href="#">IPHONE</a></li>
+                        <li><a href="#">SAMSUNG</a></li>
+                        <li><a href="#">OPPLE</a></li>
+                        <li><a href="#">VIVO</a></li>
+                        <li><a href="#">REDMI</a></li>
+                        <li><a href="#">NOKIA</a></li>
                     </ul>
                 </div>
             </div>
