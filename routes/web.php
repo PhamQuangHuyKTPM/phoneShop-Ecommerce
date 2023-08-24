@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use app\Http\Controllers\dashboard\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -37,6 +38,10 @@ Route::get('/blog', function () {
     return view('front.blog');
 })->name('blog');
 
+Route::get('/checkout', function () {
+    return view('front.checkout');
+})->name('checkout');
+
 Route::get('/blog-details', function () {
     return view('front.blog-details');
 })->name('blog-details');
@@ -47,5 +52,12 @@ Route::get('/loginn', function () {
     
 
 
+
+// Admin routes
+Route::get('/trang-admin',  [HomeController::class, 'index']);
+
+Route::get('/admin', function () {
+    return view('dashboard.index-1');
+})->name('admin');
 
 

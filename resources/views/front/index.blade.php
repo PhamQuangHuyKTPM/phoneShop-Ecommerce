@@ -1,6 +1,6 @@
 @extends('front.layout.master')
 
-    @section('title', 'Hello')
+    @section('title', 'Trang chủ')
 
     @section('body')
     <!-- Hero Section Begin -->
@@ -510,7 +510,7 @@
                                 <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
                                 <li><i class="fa fa-comment-o"></i> 5</li>
                             </ul>
-                            <h5><a href="#">Realme galaxy s10</a></h5>
+                            <h5><a href="#">Realme galaxy</a></h5>
                             <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
                         </div>
                     </div>

@@ -83,6 +83,10 @@ p {
 	margin: 0 0 15px 0;
 }
 
+.shoping__cart__item img{
+	max-width: 20%;
+}
+
 img {
 	max-width: 100%;
 }
