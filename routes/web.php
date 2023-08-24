@@ -38,6 +38,7 @@ Route::get('/blog', function () {
     return view('front.blog');
 })->name('blog');
 
+<<<<<<< HEAD
 Route::get('/checkout', function () {
     return view('front.checkout');
 })->name('checkout');
@@ -46,6 +47,11 @@ Route::get('/blog-details', function () {
     return view('front.blog-details');
 })->name('blog-details');
 
+=======
+Route::get('/blog-details', function () {
+    return view('front.blog-details');
+})->name('blog-details');
+>>>>>>> 21015fd2aadab53fec48e154b9085ee8ae828762
 
 Route::get('/loginn', function () {
     return view('login');
